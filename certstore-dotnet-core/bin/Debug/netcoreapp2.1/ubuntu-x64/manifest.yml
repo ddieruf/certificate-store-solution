@@ -1,0 +1,11 @@
+﻿---
+applications:
+- name: test-certificate
+  instances: 1
+  memory: 512M
+  disk_quota: 512M
+  buildpack: https://github.com/cloudfoundry/dotnet-core-buildpack.git#v2.2.0
+  stack: cflinuxfs2
+  #services:
+  #  - credhub-stuff
+  #command: cd ${HOME} && chmod +x ./hello.sh && ./hello.sh && exec dotnet ./WebApplication1.dll --server.urls http://0.0.0.0:${PORT}

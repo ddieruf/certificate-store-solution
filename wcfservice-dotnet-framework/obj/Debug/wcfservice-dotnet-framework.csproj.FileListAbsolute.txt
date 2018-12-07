@@ -1,0 +1,7 @@
+C:\Users\ddieruf\Source\Server-App\WcfService1\bin\WcfService1.dll.config
+C:\Users\ddieruf\Source\Server-App\WcfService1\bin\WcfService1.dll
+C:\Users\ddieruf\Source\Server-App\WcfService1\bin\WcfService1.pdb
+C:\Users\ddieruf\Source\Server-App\WcfService1\obj\Debug\wcfservice-dotnet-framework.csprojAssemblyReference.cache
+C:\Users\ddieruf\Source\Server-App\WcfService1\obj\Debug\wcfservice-dotnet-framework.csproj.CoreCompileInputs.cache
+C:\Users\ddieruf\Source\Server-App\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\ddieruf\Source\Server-App\WcfService1\obj\Debug\WcfService1.pdb

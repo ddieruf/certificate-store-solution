@@ -1,0 +1,12 @@
+﻿---
+applications:
+- name: test-certificate-framework
+  instances: 1
+  memory: 512M
+  disk_quota: 512M
+  buildpacks: 
+    - https://github.com/ddieruf/credhub-certificate-store-buildpack/releases/download/0.0.1/credhub_buildpack-windows2016-v0.0.1.zip
+    - https://github.com/cloudfoundry/hwc-buildpack/releases/download/v3.1.1/hwc-buildpack-windows2016-v3.1.1.zip
+  stack: windows2016
+  services:
+    - wcfApp-certificate

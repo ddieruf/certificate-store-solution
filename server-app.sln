@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcfservice-dotnet-framework", "wcfservice-dotnet-framework\wcfservice-dotnet-framework.csproj", "{42ED8FEB-1816-4001-A791-D4437D13D541}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "certstore-dotnet-core", "certstore-dotnet-core\certstore-dotnet-core.csproj", "{1CE3F562-C3ED-406C-8795-67AEA7296D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "certstore-dotnet-framework", "certstore-dotnet-framework\certstore-dotnet-framework.csproj", "{DF03BA29-7E9A-470F-B007-29575A01DF92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "certificate-scripts", "certificate-scripts", "{F59CE261-0DF8-4061-AE76-2ED6B9BF872F}"
+	ProjectSection(SolutionItems) = preProject
+		certificate-scripts\cf-service.ps1 = certificate-scripts\cf-service.ps1
+		certificate-scripts\create-cert.ps1 = certificate-scripts\create-cert.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62CB6413-60D4-4449-A122-88A6C23166C0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ED8FEB-1816-4001-A791-D4437D13D541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ED8FEB-1816-4001-A791-D4437D13D541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ED8FEB-1816-4001-A791-D4437D13D541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ED8FEB-1816-4001-A791-D4437D13D541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE3F562-C3ED-406C-8795-67AEA7296D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE3F562-C3ED-406C-8795-67AEA7296D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE3F562-C3ED-406C-8795-67AEA7296D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE3F562-C3ED-406C-8795-67AEA7296D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF03BA29-7E9A-470F-B007-29575A01DF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF03BA29-7E9A-470F-B007-29575A01DF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF03BA29-7E9A-470F-B007-29575A01DF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF03BA29-7E9A-470F-B007-29575A01DF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35BE1F93-7C86-42DD-9BE4-5609548F4852}
+	EndGlobalSection
+EndGlobal

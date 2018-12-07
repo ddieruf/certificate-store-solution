@@ -1,0 +1,15 @@
+C:\Users\ddieruf\Source\Server-App\WebApplication1\bin\Release\netcoreapp2.1\manifest.yml
+C:\Users\ddieruf\Source\Server-App\WebApplication1\bin\Release\netcoreapp2.1\certstore-dotnet-core.deps.json
+C:\Users\ddieruf\Source\Server-App\WebApplication1\bin\Release\netcoreapp2.1\certstore-dotnet-core.runtimeconfig.json
+C:\Users\ddieruf\Source\Server-App\WebApplication1\bin\Release\netcoreapp2.1\certstore-dotnet-core.runtimeconfig.dev.json
+C:\Users\ddieruf\Source\Server-App\WebApplication1\bin\Release\netcoreapp2.1\certstore-dotnet-core.dll
+C:\Users\ddieruf\Source\Server-App\WebApplication1\bin\Release\netcoreapp2.1\certstore-dotnet-core.pdb
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.csprojAssemblyReference.cache
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.csproj.CoreCompileInputs.cache
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.RazorAssemblyInfo.cache
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.RazorAssemblyInfo.cs
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.AssemblyInfoInputs.cache
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.AssemblyInfo.cs
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.RazorTargetAssemblyInfo.cache
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.dll
+C:\Users\ddieruf\Source\Server-App\WebApplication1\obj\Release\netcoreapp2.1\certstore-dotnet-core.pdb
